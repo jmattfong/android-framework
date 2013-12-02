@@ -1,4 +1,6 @@
-package com.example.androidframework;
+package com.jmattfong.androidframework;
+
+import com.example.androidframework.R;
 
 import android.os.Bundle;
 import android.app.Activity;
